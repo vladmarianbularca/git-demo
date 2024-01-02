@@ -2,3 +2,4 @@ potatoes
 bread
 milk
 fruits
+orange juice
