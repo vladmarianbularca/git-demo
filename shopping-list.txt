@@ -3,3 +3,5 @@ bread
 milk
 fruits
 orange juice
+eggs
+appricots
